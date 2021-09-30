@@ -1,16 +1,10 @@
 # youtube_clone
 
-projeto de estudo
+projeto criado para fins de estudos
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+projeto feito em flutter, com objetivo de criar uma copia do youtubeApp.
+Neste projeto eu peguei apenas uma playlist de um canal de musicas, mas da pra vocÊ ter acesso a todos os videos do youtube se assim desejar, utilizando a api que o google nos ofercem a V3.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+não foi configurado funções para os botôes pois a finalidade desse projeto era apenass recuperar videos consumindo a api, mas deixei todos os botões prontos para serem configurados.
