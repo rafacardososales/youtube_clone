@@ -2,7 +2,7 @@
 
 projeto criado para fins de estudos
 
-## Getting Started
+## Como funciona?
 
 projeto feito em flutter, com objetivo de criar uma copia do youtubeApp.
 Neste projeto eu peguei apenas uma playlist de um canal de musicas, mas da pra vocÊ ter acesso a todos os videos do youtube se assim desejar, utilizando a api que o google nos ofercem a V3.
